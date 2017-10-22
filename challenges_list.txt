@@ -1,9 +1,9 @@
-$Practical  :	1-43, 125-139, 140-144
-$Algorithmic  :	44-69, 134-134
-$Artificial Intelligence  :	70-77
-$Compiler/Interpreter/Debugger  :	78-90, 133-133
-$Emulation/Modeling :	91-103, 145-145
-$Games  :	104-132
+$Practical	:	1-43, 125-139, 140-144
+$Algorithmic	:	44-69, 134-134
+$Artificial Intelligence	:	70-77
+$Compiler/Interpreter/Debugger	:	78-90, 133-133
+$Emulation/Modeling	:	91-103, 145-145
+$Games	:	104-132
 
 
 @Easy
